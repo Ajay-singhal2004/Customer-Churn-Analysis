@@ -1,8 +1,12 @@
 # Customer Churn Analysis | Excel,Python, MySQL & Power BI
 
-An end-to-end customer churn analysis project covering data cleaning with **Python (Pandas and NumPy)**, exploratory business queries in **MySQL**, and an interactive **Power BI** report. The purpose is to examine customer churn alongside contracts, subscriptions, payments, services, geography, and customer value.
+customer churn analysis project covering data cleaning with **Python (Pandas and NumPy)**, exploratory business queries in **MySQL**, and an interactive **Power BI** report. The purpose is to examine customer churn alongside contracts, subscriptions, payments, services, geography, and customer value.
 
 > **Project integrity:** This README documents the supplied project as-is. It does not claim that the original data, code, SQL, or dashboard were modified or that SQL queries were executed during documentation.
+> 
+## 📊 Customer Churn Dashboard
+
+![Customer Churn Analysis Dashboard](dashboard.png)
 
 ## Project files
 
