@@ -6,7 +6,7 @@ customer churn analysis project covering data cleaning with **Python (Pandas and
 > 
 ## 📊 Customer Churn Dashboard
 
-![Customer Churn Analysis Dashboard](dashboard.png)
+![Customer Churn Analysis Dashboard](Dashboard.png)
 
 ## Project files
 
