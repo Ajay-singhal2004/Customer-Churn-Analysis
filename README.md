@@ -8,11 +8,11 @@ An end-to-end customer churn analysis project covering data cleaning with **Pyth
 
 | File | Purpose |
 |---|---|
-| `Churn_Unclean_Project(1).xlsx` | Original Excel dataset |
-| `Churn Dataset Cleaning(1).ipynb` | Python notebook for cleaning, feature engineering, and MySQL export |
-| `Clean_Churn_Data(3).csv` | Exported cleaned dataset used for the statistics below |
-| `Analysis Queries(1).sql` | Original MySQL business-analysis queries |
-| `CUSTOMER CHURN(1).pbix` | Interactive Power BI report |
+| `Churn_Unclean_Project.xlsx` | Original Excel dataset |
+| `Churn Dataset Cleaning.ipynb` | Python notebook for cleaning, feature engineering, and MySQL export |
+| `Clean_Churn_Data.csv` | Exported cleaned dataset used for the statistics below |
+| `Analysis Queries.sql` | Original MySQL business-analysis queries |
+| `CUSTOMER CHURN.pbix` | Interactive Power BI report |
 
 *File names above match the supplied uploads. Rename references in the notebook if you rename files locally.*
 
@@ -110,10 +110,10 @@ The supplied `.pbix` contains a Power BI report with a KPI card, column and bar 
 
 ## How to explore the project
 
-1. Open `Churn Dataset Cleaning(1).ipynb` to review the original cleaning and derived columns.
-2. Inspect `Clean_Churn_Data(3).csv` for the exported dataset.
-3. Open `Analysis Queries(1).sql` in MySQL Workbench. Its queries expect a populated `churndb.customer_churn` table.
-4. Open `CUSTOMER CHURN(1).pbix` in Power BI Desktop to explore the report.
+1. Open `Churn Dataset Cleaning.ipynb` to review the original cleaning and derived columns.
+2. Inspect `Clean_Churn_Data.csv` for the exported dataset.
+3. Open `Analysis Queries.sql` in MySQL Workbench. Its queries expect a populated `churndb.customer_churn` table.
+4. Open `CUSTOMER CHURN.pbix` in Power BI Desktop to explore the report.
 
 **Security and publishing:** The supplied notebook contains a literal MySQL connection password. **Do not publish the notebook publicly with that credential.** Remove or replace the credential in a *separate public copy* before uploading, while retaining your original file unchanged. Also verify that customer names and other record-level information are synthetic or authorized for public distribution before uploading the CSV or workbook.
 
